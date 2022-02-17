@@ -220,7 +220,7 @@ entries:
           url: /tag_formatting.html
           output: web
 
-        - title: Navigation pages
+        - title: "Programming using Github" 
           url: /tag_navigation.html
           output: web
 
