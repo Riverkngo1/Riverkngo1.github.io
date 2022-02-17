@@ -20,7 +20,7 @@ Some gems depend on other gems for functionality. For example, the Jekyll gem mi
 
 Each gem has a version associated with it, and not all gem versions are compatible with each other.
 
-## Rubygem package managers
+#### Walking 
 
 [Bundler](http://bundler.io/) is a gem package manager for Ruby, which means it goes out and gets all the gems you need for your Ruby programs. If you tell Bundler you need the [jekyll gem](https://rubygems.org/gems/jekyll), it will retrieve all the dependencies on the jekyll gem as well -- automatically.
 
