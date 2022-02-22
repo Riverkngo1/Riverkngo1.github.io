@@ -19,22 +19,19 @@ entries:
       output: pdf
       type: frontmatter
 
-  - title: Overview
+  - title: Robot Fun Stuff
     output: web, pdf
     folderitems:
 
-    - title: Get started
+    - title: Robot 1
       url: /index.html
       output: web, pdf
       type: homepage
 
-    - title: Introduction
+    - title: Robot 2
       url: /mydoc_introduction.html
       output: web, pdf
 
-    - title: Supported features
-      url: /mydoc_supported_features.html
-      output: web, pdf
 
     - title: About the theme author
       url: /mydoc_about.html
